@@ -7,6 +7,7 @@ using QuanLiThuVien.Models;
 using Limilabs.Barcode;
 using System.Web.Helpers;
 using System.Drawing;
+using System.Web.UI;
 using System.Web.UI.DataVisualization;
 using System.Web.UI.DataVisualization.Charting;
 using System.IO;
